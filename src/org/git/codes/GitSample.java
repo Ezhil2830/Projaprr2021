@@ -6,5 +6,6 @@ public class GitSample {
 		int a=10;
 		String name="tech";
 		System.out.println(a);
+		int b=20;
 	}
 }
