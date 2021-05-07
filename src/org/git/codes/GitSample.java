@@ -8,5 +8,7 @@ public class GitSample {
 		System.out.println(a);
 		int b=20;
 		System.out.println("test");
+		String name1 ="Project-B";
+
 	}
 }
